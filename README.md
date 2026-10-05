@@ -1,5 +1,7 @@
 # AirPods Silent AI
 
+> **Retired prototype / reference only.** The active Silent AIVA implementation now lives in [banddude/officeadmin-ios](https://github.com/banddude/officeadmin-ios). Remaining AirPods motion/gesture validation is tracked in officeadmin-ios#24, with UI/session/voice work in #19, #22, and #23. Do not start new product work in this repository; it is retained only for historical specs until archival.
+
 A hands-free iOS interaction system for controlling AI conversations with AirPods head motion, AirPods controls, and an optional iPhone Action Button.
 
 The goal is to let a user carry on a useful AI interaction without looking at the phone, typing, or continuously speaking.
